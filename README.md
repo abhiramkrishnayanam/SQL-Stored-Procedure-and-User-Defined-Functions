@@ -38,5 +38,9 @@ Each example includes:
 - **Explanation**: Line-by-line comments explaining each part of the script
 - **Use Cases**: Real-world applications and examples
 
+## 🚀 Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/SQL-StoredProcedures-UDFs.git
 
    
